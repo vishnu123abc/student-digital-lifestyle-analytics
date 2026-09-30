@@ -1,0 +1,6 @@
+{
+  "name": "Student Digital Lifestyle & Academic Performance Analytics",
+  "description": "An end-to-end data analytics portfolio project examining relationships between digital media usage, study habits, sleep hygiene, and academic performance across 10,000 synthetic student records.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
